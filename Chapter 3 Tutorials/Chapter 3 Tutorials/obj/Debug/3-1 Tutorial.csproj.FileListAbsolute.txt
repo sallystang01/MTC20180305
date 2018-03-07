@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\3-1 Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\Chapter_3_Tutorials.BDS.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\Chapter_3_Tutorials.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\3-1 Tutorial.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\3-1 Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\bin\Debug\Chapter 3 Tutorials.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\bin\Debug\Chapter 3 Tutorials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\bin\Debug\Chapter 3 Tutorials.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\Chapter 3 Tutorials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\Chapter 3 Tutorials\obj\Debug\Chapter 3 Tutorials.pdb

@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\bin\Debug\3-2 Tutorial.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\bin\Debug\3-2 Tutorial.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\bin\Debug\3-2 Tutorial.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\_3_2_Tutorial.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\_3_2_Tutorial.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\3-2 Tutorial.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\3-2 Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\3-2 Tutorial.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\3-2 Tutorial.pdb
