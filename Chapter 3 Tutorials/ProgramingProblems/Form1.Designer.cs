@@ -32,11 +32,17 @@
             this.LastName = new System.Windows.Forms.Label();
             this.MiddleName = new System.Windows.Forms.Label();
             this.Title = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.firstNameTB = new System.Windows.Forms.TextBox();
+            this.middleNameTB = new System.Windows.Forms.TextBox();
+            this.titleTB = new System.Windows.Forms.TextBox();
+            this.lastNameTB = new System.Windows.Forms.TextBox();
             this.Generator = new System.Windows.Forms.Button();
+            this.firstConcat = new System.Windows.Forms.Label();
+            this.fourthConcat = new System.Windows.Forms.Label();
+            this.secondConcat = new System.Windows.Forms.Label();
+            this.thirdConcat = new System.Windows.Forms.Label();
+            this.fifthConcat = new System.Windows.Forms.Label();
+            this.sixthConcat = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // FirstName
@@ -80,53 +86,109 @@
             this.Title.Text = "Title:";
             this.Title.Click += new System.EventHandler(this.Title_Click);
             // 
-            // textBox1
+            // firstNameTB
             // 
-            this.textBox1.Location = new System.Drawing.Point(134, 21);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 4;
+            this.firstNameTB.Location = new System.Drawing.Point(134, 21);
+            this.firstNameTB.Name = "firstNameTB";
+            this.firstNameTB.Size = new System.Drawing.Size(100, 20);
+            this.firstNameTB.TabIndex = 4;
+            this.firstNameTB.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox2
+            // middleNameTB
             // 
-            this.textBox2.Location = new System.Drawing.Point(134, 47);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 5;
+            this.middleNameTB.Location = new System.Drawing.Point(134, 47);
+            this.middleNameTB.Name = "middleNameTB";
+            this.middleNameTB.Size = new System.Drawing.Size(100, 20);
+            this.middleNameTB.TabIndex = 5;
             // 
-            // textBox3
+            // titleTB
             // 
-            this.textBox3.Location = new System.Drawing.Point(134, 99);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 6;
+            this.titleTB.Location = new System.Drawing.Point(134, 99);
+            this.titleTB.Name = "titleTB";
+            this.titleTB.Size = new System.Drawing.Size(100, 20);
+            this.titleTB.TabIndex = 6;
             // 
-            // textBox4
+            // lastNameTB
             // 
-            this.textBox4.Location = new System.Drawing.Point(134, 73);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 6;
+            this.lastNameTB.Location = new System.Drawing.Point(134, 73);
+            this.lastNameTB.Name = "lastNameTB";
+            this.lastNameTB.Size = new System.Drawing.Size(100, 20);
+            this.lastNameTB.TabIndex = 6;
             // 
             // Generator
             // 
-            this.Generator.Location = new System.Drawing.Point(108, 174);
+            this.Generator.Location = new System.Drawing.Point(98, 146);
             this.Generator.Name = "Generator";
             this.Generator.Size = new System.Drawing.Size(75, 23);
             this.Generator.TabIndex = 7;
             this.Generator.Text = "Generate";
             this.Generator.UseVisualStyleBackColor = true;
+            this.Generator.Click += new System.EventHandler(this.Generator_Click);
+            // 
+            // firstConcat
+            // 
+            this.firstConcat.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.firstConcat.Location = new System.Drawing.Point(61, 184);
+            this.firstConcat.Name = "firstConcat";
+            this.firstConcat.Size = new System.Drawing.Size(256, 25);
+            this.firstConcat.TabIndex = 8;
+            // 
+            // fourthConcat
+            // 
+            this.fourthConcat.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.fourthConcat.Location = new System.Drawing.Point(61, 290);
+            this.fourthConcat.Name = "fourthConcat";
+            this.fourthConcat.Size = new System.Drawing.Size(256, 25);
+            this.fourthConcat.TabIndex = 9;
+            // 
+            // secondConcat
+            // 
+            this.secondConcat.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.secondConcat.Location = new System.Drawing.Point(61, 218);
+            this.secondConcat.Name = "secondConcat";
+            this.secondConcat.Size = new System.Drawing.Size(256, 25);
+            this.secondConcat.TabIndex = 9;
+            // 
+            // thirdConcat
+            // 
+            this.thirdConcat.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.thirdConcat.Location = new System.Drawing.Point(61, 253);
+            this.thirdConcat.Name = "thirdConcat";
+            this.thirdConcat.Size = new System.Drawing.Size(256, 25);
+            this.thirdConcat.TabIndex = 10;
+            // 
+            // fifthConcat
+            // 
+            this.fifthConcat.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.fifthConcat.Location = new System.Drawing.Point(61, 325);
+            this.fifthConcat.Name = "fifthConcat";
+            this.fifthConcat.Size = new System.Drawing.Size(256, 25);
+            this.fifthConcat.TabIndex = 11;
+            // 
+            // sixthConcat
+            // 
+            this.sixthConcat.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.sixthConcat.Location = new System.Drawing.Point(61, 366);
+            this.sixthConcat.Name = "sixthConcat";
+            this.sixthConcat.Size = new System.Drawing.Size(256, 25);
+            this.sixthConcat.TabIndex = 12;
             // 
             // NameFormatter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(363, 400);
+            this.Controls.Add(this.sixthConcat);
+            this.Controls.Add(this.fifthConcat);
+            this.Controls.Add(this.thirdConcat);
+            this.Controls.Add(this.secondConcat);
+            this.Controls.Add(this.fourthConcat);
+            this.Controls.Add(this.firstConcat);
             this.Controls.Add(this.Generator);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lastNameTB);
+            this.Controls.Add(this.titleTB);
+            this.Controls.Add(this.middleNameTB);
+            this.Controls.Add(this.firstNameTB);
             this.Controls.Add(this.Title);
             this.Controls.Add(this.MiddleName);
             this.Controls.Add(this.LastName);
@@ -145,11 +207,17 @@
         private System.Windows.Forms.Label LastName;
         private System.Windows.Forms.Label MiddleName;
         private System.Windows.Forms.Label Title;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox firstNameTB;
+        private System.Windows.Forms.TextBox middleNameTB;
+        private System.Windows.Forms.TextBox titleTB;
+        private System.Windows.Forms.TextBox lastNameTB;
         private System.Windows.Forms.Button Generator;
+        private System.Windows.Forms.Label firstConcat;
+        private System.Windows.Forms.Label fourthConcat;
+        private System.Windows.Forms.Label secondConcat;
+        private System.Windows.Forms.Label thirdConcat;
+        private System.Windows.Forms.Label fifthConcat;
+        private System.Windows.Forms.Label sixthConcat;
     }
 }
 

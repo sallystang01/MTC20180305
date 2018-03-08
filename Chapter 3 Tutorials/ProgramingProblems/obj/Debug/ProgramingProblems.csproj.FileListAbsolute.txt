@@ -1,0 +1,9 @@
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\bin\Debug\ProgramingProblems.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\bin\Debug\ProgramingProblems.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\bin\Debug\ProgramingProblems.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.NameFormatter.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Properties.Resources.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.csproj.GenerateResource.Cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.csproj.CoreCompileInputs.cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.pdb
