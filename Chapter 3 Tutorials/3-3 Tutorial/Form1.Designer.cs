@@ -125,6 +125,7 @@
             this.Controls.Add(this.originalPriceTextBox);
             this.Name = "SalePriceCalc";
             this.Text = "Sale Price Calculator";
+            this.Load += new System.EventHandler(this.SalePriceCalc_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

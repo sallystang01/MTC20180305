@@ -1,0 +1,25 @@
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\Directory.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\Directory.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\Directory.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-2 Tutorial.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-3 Tutorial.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-4 Tutorial.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-5 Tutorial.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\Chapter 3 Tutorials.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-2 Tutorial.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-2 Tutorial.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-3 Tutorial.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-3 Tutorial.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-4 Tutorial.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-4 Tutorial.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-5 Tutorial.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\3-5 Tutorial.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\Chapter 3 Tutorials.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\bin\Debug\Chapter 3 Tutorials.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.csprojResolveAssemblyReference.cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.Form1.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.Properties.Resources.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.csproj.GenerateResource.Cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.csproj.CoreCompileInputs.cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\Directory\obj\Debug\Directory.pdb

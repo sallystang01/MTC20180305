@@ -48,5 +48,10 @@ namespace _3_3_Tutorial
             //Closes form
             this.Close();
         }
+
+        private void SalePriceCalc_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

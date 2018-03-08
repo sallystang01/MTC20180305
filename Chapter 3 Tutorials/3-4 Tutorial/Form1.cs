@@ -63,5 +63,10 @@ namespace _3_4_Tutorial
             //Closes the form
             this.Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

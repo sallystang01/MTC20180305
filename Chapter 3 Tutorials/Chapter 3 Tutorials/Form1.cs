@@ -32,18 +32,27 @@ namespace Chapter_3_Tutorials
         {
 
         }
-
+        
         private void showDateButtonshowDateButton_Click(object sender, EventArgs e)
+
         {
-            //Declares Variable
-            string output;
-            //Sets variable to a concatenate of the text inputed through the form.
-            output = DoWTextBox.Text + ", " +
-                NoMTextBox.Text + " " +
-                DoMTextBox.Text + " " +
-                EtYTextBox.Text;
-            //Displays the variable after concatenate 
-            dateOutputLabel.Text = output;
+            try
+            {
+                //Declares Variable
+                string output;
+                //Sets variable to a concatenate of the text inputed through the form.
+                output = DoWTextBox.Text + ", " +
+                    NoMTextBox.Text + " " +
+                    DoMTextBox.Text + " " +
+                    EtYTextBox.Text;
+                //Displays the variable after concatenate 
+                dateOutputLabel.Text = output;
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void clearButton_Click(object sender, EventArgs e)

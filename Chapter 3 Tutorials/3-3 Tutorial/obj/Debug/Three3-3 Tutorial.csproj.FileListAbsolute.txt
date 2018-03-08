@@ -1,0 +1,9 @@
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\bin\Debug\3-3 Tutorial.exe.config
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\bin\Debug\3-3 Tutorial.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\bin\Debug\3-3 Tutorial.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\obj\Debug\_3_3_Tutorial.SalePriceCalc.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\obj\Debug\_3_3_Tutorial.Properties.Resources.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\obj\Debug\Three3-3 Tutorial.csproj.GenerateResource.Cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\obj\Debug\Three3-3 Tutorial.csproj.CoreCompileInputs.cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\obj\Debug\3-3 Tutorial.exe
+C:\Data\MTC20180305\Chapter 3 Tutorials\3-3 Tutorial\obj\Debug\3-3 Tutorial.pdb

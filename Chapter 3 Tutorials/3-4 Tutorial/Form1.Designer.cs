@@ -160,6 +160,7 @@
             this.Controls.Add(this.test1TextBox);
             this.Name = "Form1";
             this.Text = "Test Average";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
