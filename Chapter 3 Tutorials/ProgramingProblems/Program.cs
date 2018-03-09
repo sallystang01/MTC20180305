@@ -16,7 +16,7 @@ namespace ProgramingProblems
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new NameFormatter());
+            Application.Run(new Navigation());
         }
     }
 }

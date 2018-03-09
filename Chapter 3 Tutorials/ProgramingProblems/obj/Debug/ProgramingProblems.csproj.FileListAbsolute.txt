@@ -7,3 +7,10 @@ C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingP
 C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.csproj.CoreCompileInputs.cache
 C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.exe
 C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.pdb
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Navigation.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Problem2.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Problem_3.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.csprojResolveAssemblyReference.cache
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Problem_4.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Problem5.resources
+C:\Data\MTC20180305\Chapter 3 Tutorials\ProgramingProblems\obj\Debug\ProgramingProblems.Problem6.resources

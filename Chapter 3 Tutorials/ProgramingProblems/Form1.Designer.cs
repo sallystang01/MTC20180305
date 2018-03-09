@@ -43,6 +43,8 @@
             this.thirdConcat = new System.Windows.Forms.Label();
             this.fifthConcat = new System.Windows.Forms.Label();
             this.sixthConcat = new System.Windows.Forms.Label();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // FirstName
@@ -173,11 +175,34 @@
             this.sixthConcat.Size = new System.Drawing.Size(256, 25);
             this.sixthConcat.TabIndex = 12;
             // 
+            // btnExit
+            // 
+            this.btnExit.Location = new System.Drawing.Point(260, 146);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(75, 23);
+            this.btnExit.TabIndex = 13;
+            this.btnExit.Text = "Exit";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(179, 146);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(75, 23);
+            this.btnClear.TabIndex = 14;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
             // NameFormatter
             // 
+            this.AcceptButton = this.Generator;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(363, 400);
+            this.Controls.Add(this.btnClear);
+            this.Controls.Add(this.btnExit);
             this.Controls.Add(this.sixthConcat);
             this.Controls.Add(this.fifthConcat);
             this.Controls.Add(this.thirdConcat);
@@ -218,6 +243,8 @@
         private System.Windows.Forms.Label thirdConcat;
         private System.Windows.Forms.Label fifthConcat;
         private System.Windows.Forms.Label sixthConcat;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Button btnClear;
     }
 }
 

@@ -51,19 +51,64 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Navigation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navigation.Designer.cs">
+      <DependentUpon>Navigation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Problem 3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Problem 3.Designer.cs">
+      <DependentUpon>Problem 3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Problem 4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Problem 4.Designer.cs">
+      <DependentUpon>Problem 4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Problem2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Problem2.Designer.cs">
       <DependentUpon>Problem2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Problem5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Problem5.Designer.cs">
+      <DependentUpon>Problem5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Problem6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Problem6.Designer.cs">
+      <DependentUpon>Problem6.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Navigation.resx">
+      <DependentUpon>Navigation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Problem 3.resx">
+      <DependentUpon>Problem 3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Problem 4.resx">
+      <DependentUpon>Problem 4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Problem2.resx">
       <DependentUpon>Problem2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Problem5.resx">
+      <DependentUpon>Problem5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Problem6.resx">
+      <DependentUpon>Problem6.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

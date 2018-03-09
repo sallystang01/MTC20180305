@@ -32,14 +32,16 @@
             this.tbCostofFood = new System.Windows.Forms.TextBox();
             this.btnSubmit = new System.Windows.Forms.Button();
             this.gbCalculations = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.rstCostofFood = new System.Windows.Forms.Label();
-            this.rstTip = new System.Windows.Forms.Label();
-            this.rstTax = new System.Windows.Forms.Label();
             this.rstTotal = new System.Windows.Forms.Label();
+            this.rstTax = new System.Windows.Forms.Label();
+            this.rstTip = new System.Windows.Forms.Label();
+            this.rstCostofFood = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
             this.gbCalculations.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -85,32 +87,37 @@
             this.gbCalculations.TabIndex = 3;
             this.gbCalculations.TabStop = false;
             // 
-            // label1
+            // rstTotal
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(24, 27);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 13);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "Cost of Food:";
+            this.rstTotal.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.rstTotal.Location = new System.Drawing.Point(106, 65);
+            this.rstTotal.Name = "rstTotal";
+            this.rstTotal.Size = new System.Drawing.Size(70, 13);
+            this.rstTotal.TabIndex = 11;
             // 
-            // label2
+            // rstTax
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(69, 40);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(25, 13);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "Tip:";
+            this.rstTax.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.rstTax.Location = new System.Drawing.Point(106, 52);
+            this.rstTax.Name = "rstTax";
+            this.rstTax.Size = new System.Drawing.Size(70, 13);
+            this.rstTax.TabIndex = 10;
             // 
-            // label3
+            // rstTip
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(66, 53);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(28, 13);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "Tax:";
+            this.rstTip.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.rstTip.Location = new System.Drawing.Point(106, 39);
+            this.rstTip.Name = "rstTip";
+            this.rstTip.Size = new System.Drawing.Size(70, 13);
+            this.rstTip.TabIndex = 9;
+            // 
+            // rstCostofFood
+            // 
+            this.rstCostofFood.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.rstCostofFood.Location = new System.Drawing.Point(106, 26);
+            this.rstCostofFood.Name = "rstCostofFood";
+            this.rstCostofFood.Size = new System.Drawing.Size(70, 13);
+            this.rstCostofFood.TabIndex = 8;
             // 
             // label4
             // 
@@ -121,43 +128,60 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Total:";
             // 
-            // rstCostofFood
+            // label3
             // 
-            this.rstCostofFood.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.rstCostofFood.Location = new System.Drawing.Point(106, 26);
-            this.rstCostofFood.Name = "rstCostofFood";
-            this.rstCostofFood.Size = new System.Drawing.Size(70, 13);
-            this.rstCostofFood.TabIndex = 8;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(66, 53);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(28, 13);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Tax:";
             // 
-            // rstTip
+            // label2
             // 
-            this.rstTip.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.rstTip.Location = new System.Drawing.Point(106, 39);
-            this.rstTip.Name = "rstTip";
-            this.rstTip.Size = new System.Drawing.Size(70, 13);
-            this.rstTip.TabIndex = 9;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(69, 40);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(25, 13);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Tip:";
             // 
-            // rstTax
+            // label1
             // 
-            this.rstTax.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.rstTax.Location = new System.Drawing.Point(106, 52);
-            this.rstTax.Name = "rstTax";
-            this.rstTax.Size = new System.Drawing.Size(70, 13);
-            this.rstTax.TabIndex = 10;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(24, 27);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(70, 13);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "Cost of Food:";
             // 
-            // rstTotal
+            // btnExit
             // 
-            this.rstTotal.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.rstTotal.Location = new System.Drawing.Point(106, 65);
-            this.rstTotal.Name = "rstTotal";
-            this.rstTotal.Size = new System.Drawing.Size(70, 13);
-            this.rstTotal.TabIndex = 11;
+            this.btnExit.Location = new System.Drawing.Point(183, 235);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(75, 23);
+            this.btnExit.TabIndex = 4;
+            this.btnExit.Text = "Exit";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(102, 235);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(75, 23);
+            this.btnClear.TabIndex = 5;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.button1_Click);
             // 
             // Problem2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.btnClear);
+            this.Controls.Add(this.btnExit);
             this.Controls.Add(this.gbCalculations);
             this.Controls.Add(this.btnSubmit);
             this.Controls.Add(this.tbCostofFood);
@@ -185,5 +209,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Button btnClear;
     }
 }
