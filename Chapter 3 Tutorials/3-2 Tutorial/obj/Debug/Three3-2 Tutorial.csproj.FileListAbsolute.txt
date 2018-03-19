@@ -1,0 +1,9 @@
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\bin\Debug\3-2 Tutorial.exe.config
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\bin\Debug\3-2 Tutorial.exe
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\bin\Debug\3-2 Tutorial.pdb
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\_3_2_Tutorial.Form1.resources
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\_3_2_Tutorial.Properties.Resources.resources
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\Three3-2 Tutorial.csproj.GenerateResource.Cache
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\Three3-2 Tutorial.csproj.CoreCompileInputs.cache
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\3-2 Tutorial.exe
+C:\Data\MTC20180305-master\MTC20180305-master\Chapter 3 Tutorials\3-2 Tutorial\obj\Debug\3-2 Tutorial.pdb
